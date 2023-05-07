@@ -21,6 +21,7 @@ export default function Index() {
           <h3>
            human mentor<span className="fancy">.</span>
           </h3>
+          <br />   <br />
           <span className="handle">puenteformacio@gmail.com</span>
     
           <SocialList />
