@@ -16,13 +16,13 @@ export default function Index() {
            puenteformacio<span className="fancy">.</span>
           </h1>
           <h2>
-           all you need is me<span className="fancy">.</span>
+          «Mediocre alumno el que no sobrepasa a su maestro…»<span className="fancy">.</span>
           </h2>
           <h3>
-           i`m only a human teacher<span className="fancy">.</span>
+           human mentor<span className="fancy">.</span>
           </h3>
-          <span className="handle">@nextjs-netlify-blog</span>
-          <h2>A blog template with Next.js and Netlify.</h2>
+          <span className="handle">puenteformacio@gmail.com</span>
+    
           <SocialList />
         </div>
       </div>
