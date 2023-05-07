@@ -19,7 +19,7 @@ export default function Index() {
           «Alumnoediocre el que no sobrepasa a su maestro…»<span className="fancy">.</span>
           </h2>
           <h3>
-           human mentor<span className="fancy">.</span>
+           human mentoring<span className="fancy">.</span>
           </h3>
         
           <span className="handle">puenteformacio@gmail.com</span>
