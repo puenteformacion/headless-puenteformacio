@@ -15,6 +15,9 @@ export default function Index() {
           <h1>
            puenteformacio<span className="fancy">.</span>
           </h1>
+          <h2>
+           all you need is me<span className="fancy">.</span>
+          </h2>
           <span className="handle">@nextjs-netlify-blog</span>
           <h2>A blog template with Next.js and Netlify.</h2>
           <SocialList />
