@@ -26,7 +26,7 @@ export function SocialList({}) {
       </a> */
       <a
         title="Linkedin"
-        href={`https://www.linkedin.com/in/puentedesign/${config.github_account}`}
+        href={`https://www.linkedin.com/in/puentedesign/`}
         target="_blank"
         rel="noopener"
       >
