@@ -16,7 +16,7 @@ export default function Index() {
            puenteformacio<span className="fancy">.</span>
           </h1>
          <h2>
-          «Alumno ediocre el que no sobrepasa a su maestro…»<span className="fancy">.</span>
+          «Alumnoediocre el que no sobrepasa a su maestro…»<span className="fancy">.</span>
           </h2>
           <h3>
            human mentor<span className="fancy">.</span>
