@@ -18,6 +18,9 @@ export default function Index() {
           <h2>
            all you need is me<span className="fancy">.</span>
           </h2>
+          <h3>
+           i`m only a human teacher<span className="fancy">.</span>
+          </h3>
           <span className="handle">@nextjs-netlify-blog</span>
           <h2>A blog template with Next.js and Netlify.</h2>
           <SocialList />
