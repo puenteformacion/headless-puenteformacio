@@ -23,7 +23,7 @@ export default function Index() {
           </h3>
         
           <span className="handle">puenteformacio@gmail.com</span>
-          <br />  <br />   
+          <br />  <br /> <br />    
           <SocialList />
         </div>
       </div>
